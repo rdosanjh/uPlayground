@@ -1,0 +1,8 @@
+C:\dev\uPlayground\consumer\bin\Debug\netcoreapp1.1\consumer.deps.json
+C:\dev\uPlayground\consumer\bin\Debug\netcoreapp1.1\consumer.runtimeconfig.json
+C:\dev\uPlayground\consumer\bin\Debug\netcoreapp1.1\consumer.runtimeconfig.dev.json
+C:\dev\uPlayground\consumer\bin\Debug\netcoreapp1.1\consumer.dll
+C:\dev\uPlayground\consumer\bin\Debug\netcoreapp1.1\consumer.pdb
+C:\dev\uPlayground\consumer\obj\Debug\netcoreapp1.1\consumer.AssemblyInfo.cs
+C:\dev\uPlayground\consumer\obj\Debug\netcoreapp1.1\consumer.dll
+C:\dev\uPlayground\consumer\obj\Debug\netcoreapp1.1\consumer.pdb

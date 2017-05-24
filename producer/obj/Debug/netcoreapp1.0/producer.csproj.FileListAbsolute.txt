@@ -1,0 +1,14 @@
+C:\dev\uPlayground\producer\bin\Debug\netcoreapp1.0\producer.deps.json
+C:\dev\uPlayground\producer\bin\Debug\netcoreapp1.0\producer.runtimeconfig.json
+C:\dev\uPlayground\producer\bin\Debug\netcoreapp1.0\producer.runtimeconfig.dev.json
+C:\dev\uPlayground\producer\obj\Debug\netcoreapp1.0\producer.csprojResolveAssemblyReference.cache
+C:\dev\uPlayground\producer\obj\Debug\netcoreapp1.0\producer.AssemblyInfo.cs
+C:\dev\uPlayground\producer\bin\Debug\netcoreapp1.0\producer.dll
+C:\dev\uPlayground\producer\bin\Debug\netcoreapp1.0\producer.pdb
+C:\dev\uPlayground\producer\obj\Debug\netcoreapp1.0\producer.dll
+C:\dev\uPlayground\producer\obj\Debug\netcoreapp1.0\producer.pdb
+C:\dev\uPlayground\producer\out\producer.deps.json
+C:\dev\uPlayground\producer\out\producer.runtimeconfig.json
+C:\dev\uPlayground\producer\out\producer.runtimeconfig.dev.json
+C:\dev\uPlayground\producer\out\producer.dll
+C:\dev\uPlayground\producer\out\producer.pdb
